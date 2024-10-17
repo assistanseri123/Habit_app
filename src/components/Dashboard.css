@@ -1,0 +1,19 @@
+.dashboard-title {
+    
+    font: weight 600px;
+    color: white;
+    background-color: hsl(313, 8%, 47%);
+    border-radius: 40px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  
+  .habit-list {
+    margin-top: 1rem;
+
+  }
+  
+  
+
+  
